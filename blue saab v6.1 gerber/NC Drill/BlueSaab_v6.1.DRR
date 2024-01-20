@@ -1,0 +1,24 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: BlueSaab_v6.1.CMPcbDoc   2/17/2018  2:50:12 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top GND to Bot VCC
+ASCII RoundHoles File : BlueSaab_v6.1.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        15mil (0.381mm)          Round          85               18.50 Inch (469.93 mm)
+T2        17.3mil (0.43942mm)      Round          5                0.20 Inch (5.09 mm)
+T3        27.6mil (0.70104mm)      Round          10               0.45 Inch (11.43 mm)
+T4        33.9mil (0.86106mm)      Round          6                0.50 Inch (12.70 mm)
+T5        39.4mil (1.00076mm)      Round          8                2.86 Inch (72.69 mm)
+T6        40mil (1.016mm)          Round          5                0.40 Inch (10.16 mm)
+T7        47.2mil (1.19888mm)      Round          8                1.82 Inch (46.18 mm)
+T8        34mil (0.8636mm)         Round          2         NPTH   0.12 Inch (3.02 mm)
+T9        47.2mil (1.19888mm)      Round          4         NPTH   1.01 Inch (25.59 mm)
+T10       122mil (3.0988mm)        Round          2         NPTH   1.49 Inch (37.75 mm)
+T11       125mil (3.175mm)         Round          4         NPTH   7.26 Inch (184.28 mm)
+---------------------------------------------------------------------------
+Totals                                            139              34.60 Inch (878.82 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00
